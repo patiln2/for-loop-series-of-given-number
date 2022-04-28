@@ -1,0 +1,1 @@
+# for-loop-series-of-given-number
